@@ -34,7 +34,6 @@ public class Product {
     @CreationTimestamp
     private Date updatedAt;
 
-
     public long getId() {
         return id;
     }

@@ -11,7 +11,7 @@
     <groupId>net.javaguides.springboot</groupId>
     <artifactId>springboot-crud-hibernate-example</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-creud</name>
+    <name>spring-crud</name>
     <description>spring boot crud operations example with hibernate</description>
 
     <properties>
